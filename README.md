@@ -1,33 +1,96 @@
-<h1 align="center">Hi 👋, I'm Abhishek Yadav</h1>
-<h3 align="center">I am a passionate Full Stack Developer focused on building scalable, responsive, and user-friendly web applications using modern technologies. I enjoy solving Data Structures & Algorithms problems and continuously improving my development skills.</h3>
+<h1 align="center">Hi, I'm Abhishek Yadav</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi4865&label=Profile%20views&color=0e75b6&style=flat" alt="abhi4865" /> </p>
+<h3 align="center">
+Full Stack Developer from India focused on building scalable, responsive, and user-friendly web applications with modern technologies.
+</h3>
 
-- 🔭 I’m currently working on **Full Stack Web Projects**
-
-- 🌱 I’m currently learning **Advanced Backend Development & System Design**
-
-- 👯 I’m looking to collaborate on **Open Source and MERN Stack Projects**
-
-- 🤝 I’m looking for help with **Open Source and MERN Stack Projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/abhi4865](https://github.com/abhi4865)
-
-- 💬 Ask me about **React, Node.js, Firebase, REST APIs, DSA**
-
-- 📫 How to reach me **abhishek.ybit@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abhishek-yadav-ybit6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-yadav-ybit6" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/abhi4865" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhi4865" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abhishek5353" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhishek5353" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/@abhishek3qix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="@abhishek3qix" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhi4865&label=Profile%20views&color=0e75b6&style=flat" alt="abhi4865" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi4865&show_icons=true&locale=en&layout=compact" alt="abhi4865" /></p>
+I am a passionate Full Stack Developer with strong interest in React, Node.js, Express.js, Firebase, REST APIs, and Data Structures & Algorithms.  
+I enjoy building clean user interfaces, writing efficient backend logic, and solving real-world problems through code.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhi4865&show_icons=true&locale=en" alt="abhi4865" /></p>
+## What I Am Doing
+
+- Working on full stack web projects
+- Learning advanced backend development and system design
+- Collaborating on open source and MERN stack projects
+- Solving DSA problems consistently
+
+## Ask Me About
+
+React, Node.js, Express.js, Firebase, REST APIs, JavaScript, C++, Java, and DSA
+
+## Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,html,css,react,nodejs,express,mysql,mongodb,firebase,git,github,postman,vscode" />
+</p>
+
+## Featured Projects
+
+### Learnify - Learning Management System
+- Built a dynamic React-based UI for seamless course discovery and navigation
+- Enabled educators to manage assignments, quizzes, and study materials
+- Developed student features including enrollment, progress tracking, and discussion forums
+- Implemented secure authentication with role-based access for Admin, Educator, and Student
+- Added analytics dashboards for performance insights
+- Designed a responsive and mobile-friendly layout
+
+### Backend Ledger System
+- Developed a ledger-based backend system to manage users, accounts, and transactions
+- Implemented secure authentication using JWT and bcrypt
+- Designed transaction and ledger models for accurate balance tracking with MongoDB aggregation
+- Integrated email notifications using Nodemailer
+- Built RESTful APIs and tested endpoints using Postman
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhi4865&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi4865&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+## Achievements
+
+- Shortlisted in the Top 300 nationwide at Code for Bharat - Season 2 Hackathon
+- Solved 300+ DSA problems on LeetCode
+- 5-Star in C++ on HackerRank
+
+## Certifications
+
+- Python Programming - Infosys Springboard
+- Complete Web Development Course - Udemy
+- 5-Star in C++ - HackerRank
+
+## Connect With Me
+
+<p align="left">
+  <a href="https://github.com/abhi4865" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/abhishek-yadav-ybit6" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:abhishek.ybit@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.leetcode.com/abhishek5353" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/@abhishek3qix" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/abhi4865" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>Build. Learn. Solve. Repeat.</b>
+</p>
