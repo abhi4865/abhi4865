@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Abhishek Yadav</h1>
 
 <h3 align="center">
-Full Stack Developer from India focused on building scalable, responsive, and user-friendly web applications with modern technologies.
+Full Stack Developer focused on building scalable, responsive, and user-friendly web applications with modern technologies.
 </h3>
 
 <p align="center">
